@@ -1,0 +1,31 @@
+#body {
+    background-image: url("https://images.hdqwalls.com/download/camel-leaders-silhouette-bz-1920x1080.jpg");
+  background-position: center; 
+  background-repeat: no-repeat; 
+  }
+td{
+  padding: 1px;
+}
+  #g{
+    background-color: green;
+    height: 1px;
+  }
+  #y{
+    background-color: yellow;
+  }
+
+  #r{
+    background-color: red;
+  }
+
+  .navbar .navbar-nav .nav-item:not(:last-child) .nav-link {
+
+    border-right: 1px solid #000000;
+  }
+  .navbar .navbar-nav .nav-item .nav-link {
+   
+    color: blue;
+    font-weight: bold;
+  }
+ 
+ #logo {width: 90px; }

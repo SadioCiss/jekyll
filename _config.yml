@@ -1,0 +1,4 @@
+title: Login
+sass:
+  sass_dir: css
+  style:    compressed
